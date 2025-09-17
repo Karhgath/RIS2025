@@ -5,8 +5,8 @@ Official RiS2025 Doc: https://docs.google.com/document/d/1vWqZa7-2AYW3N_LOAvrzCC
 
 ## How to use the .cfg file
 
-- The RIS2025-X.cfg file for RiS is the main file and cannot be duplicated - the final official file will be called RIS2025-OFFICIAL.cfg and you will need to remove any previous files (e.g. ALPHA, BETA)
-- You will need to create a new folder in {ksp}/GameData (or use a custom one you already have) and put the file in - recommended to use a new folder and not RP-1 in case an update wipes out the file
+- The **RIS2025-X.cfg** file for RiS is the main file and cannot be duplicated - the final official file will be called **RIS2025-OFFICIAL.cfg** and you will need to remove any previous files lying around (e.g. ALPHA, BETA)
+- Download the repo, it uses the standard GameData structure. Be sure to copy the _GameData/RIS2025_ folder in _{ksp}/GameData_.
 - Before launching the game, please open the file if you want to change your starting launch site
   
 ## Launch Site Selection
