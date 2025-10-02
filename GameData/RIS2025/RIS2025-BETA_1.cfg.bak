@@ -517,8 +517,8 @@ CUSTOMSCENARIO
 		isHumanRated = false
 		resourcesHandled
 		{
-			LqdOxygen = 120000
-			RP-1 = 80000
+			LqdOxygen = 80000
+			RP-1 = 60000
 		}
 	}
 
